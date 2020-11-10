@@ -3,8 +3,8 @@
 
 
 ## ***Task List***
-- [ ] Find Arduino! (Currently missing... oof)
-- [ ] Test Program
+- [x] Find Arduino!
+- [x] Test Program
 - [ ] Update Schematic
 
 
@@ -23,23 +23,14 @@ to see how well it suggests daily activities! The general idea though
 is that every 24 hours, the Arduino will randomly select a greeting or 
 a suggested activity to display. I suggest starting the system sometime 
 at night before your usual bedtime, so that your new activity or
-greeting can be ready well before you wake up! If the given activity
-doesn't apply to you, or is something you've done recently, you can
-always "re-roll" for a new activity or greeting. If something goes
-wrong (power outage) you can always unplug/plug it back in or press
-the *other* button to reset the system at the desired time. Enjoy!
+greeting can be ready well before you wake up! If something goes
+wrong (power outage) you can always unplug/plug it back in to reset it.
+Enjoy!
 
 
 ## What Do I Need?
-Required Components:
+Required Component:
   - Liquid Crystal Display (LCD)
-Optional Components:
-  - 2 LEDs (Any Color)
-    - 1 for use as an "Online" indicator (Preferrably Green)
-    - 1 for use as a "Processing" indicator (Preferrably Red)
-  - 2 Buttons
-    - 1 to reload system (A)
-    - 1 to "re-roll" activity/greeting (B)
     
 
 ## Suggested Schematic (UNFINISHED)
